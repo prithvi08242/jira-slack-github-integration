@@ -6,6 +6,7 @@ Go to the workspace where you want Jira notifications.
 
 Step 2: Install the Jira Cloud App
 In Slack, click Apps in the left sidebar.
+Right click on the Apps and Browse Apps.
 Search for Jira Cloud.
 Click Add to Slack.
 Or install directly from Atlassian Marketplace – Jira Cloud for Slack.
