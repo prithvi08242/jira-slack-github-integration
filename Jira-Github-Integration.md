@@ -6,7 +6,7 @@ Select Apps.
 Step 2: Find the GitHub for Jira App
 In the Apps section, click Find new apps.
 Search for GitHub for Jira.
-Install the official app from Atlassian Marketplace.
+Install the official app from Atlassian Marketplace. https://marketplace.atlassian.com/apps/1221051/media-processor-for-confluence?utm_source=chatgpt.com
 
 Step 3: Connect Your GitHub Account
 After installation, go to Apps → Manage apps → GitHub for Jira → Configure.
